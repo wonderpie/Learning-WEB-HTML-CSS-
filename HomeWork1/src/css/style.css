@@ -1,0 +1,36 @@
+body
+{
+    background-color:#FFF3E5;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1
+{
+    color: #CC0000;
+    font-size: 50px;
+    text-align: center;
+}
+h2
+{
+    color:#CC0000;
+    text-align: center;
+}
+.dedicatedText
+{
+    text-transform: uppercase;
+}
+.contentText
+{
+    
+}
+.importantMoments
+{
+    font-style: italic;
+}
+.dialoguePhrases
+{
+    font-style: italic;
+}
+.contentImage
+{
+text-align: center;
+}
